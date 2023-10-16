@@ -1,0 +1,10 @@
+﻿  Homework_1.cpp
+  test_wolf.cpp
+C:\Users\Mikhakuv\Desktop\Shkola\infa\C++\Ecosystem-master\Homework_1\test_wolf.cpp(15,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Mikhakuv\Desktop\Shkola\infa\C++\Ecosystem-master\Homework_1\test_wolf.cpp(24,14): warning C4305: '=': truncation from 'double' to 'float'
+  Wolf.cpp
+C:\Users\Mikhakuv\Desktop\Shkola\infa\C++\Ecosystem-master\Homework_1\Wolf.cpp(14,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+C:\Users\Mikhakuv\Desktop\Shkola\infa\C++\Ecosystem-master\Homework_1\Wolf.cpp(35): warning C4715: 'Wolf::operator<=>': not all control paths return a value
+  LINK : C:\Users\Mikhakuv\Desktop\Shkola\infa\C++\Ecosystem-master\x64\Debug\Homework_1.exe not found or not built by the last incremental link; performing full link
+  Homework_1.vcxproj -> C:\Users\Mikhakuv\Desktop\Shkola\infa\C++\Ecosystem-master\x64\Debug\Homework_1.exe
