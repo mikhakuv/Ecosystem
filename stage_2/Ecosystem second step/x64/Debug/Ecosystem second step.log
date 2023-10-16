@@ -1,0 +1,28 @@
+﻿  Cabbage.cpp
+  Ecosystem second step.cpp
+C:\Users\Mikhakuv\Desktop\Shkola\infa\C++\Ecosystem second step\Ecosystem second step\Wolf.h(6,27): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\Mikhakuv\Desktop\Shkola\infa\C++\Ecosystem second step\Ecosystem second step\Hare.h(6,27): warning C4305: 'initializing': truncation from 'double' to 'const float'
+  Hare.cpp
+C:\Users\Mikhakuv\Desktop\Shkola\infa\C++\Ecosystem second step\Ecosystem second step\Hare.h(6,27): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\Mikhakuv\Desktop\Shkola\infa\C++\Ecosystem second step\Ecosystem second step\Hare.cpp(14,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Mikhakuv\Desktop\Shkola\infa\C++\Ecosystem second step\Ecosystem second step\Hare.cpp(24,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Mikhakuv\Desktop\Shkola\infa\C++\Ecosystem second step\Ecosystem second step\Hare.cpp(25,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Mikhakuv\Desktop\Shkola\infa\C++\Ecosystem second step\Ecosystem second step\Hare.cpp(26,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Nature.cpp
+  Test.cpp
+C:\Users\Mikhakuv\Desktop\Shkola\infa\C++\Ecosystem second step\Ecosystem second step\Wolf.h(6,27): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\Mikhakuv\Desktop\Shkola\infa\C++\Ecosystem second step\Ecosystem second step\Hare.h(6,27): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\Mikhakuv\Desktop\Shkola\infa\C++\Ecosystem second step\Ecosystem second step\Test.cpp(18,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Mikhakuv\Desktop\Shkola\infa\C++\Ecosystem second step\Ecosystem second step\Test.cpp(40,24): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Mikhakuv\Desktop\Shkola\infa\C++\Ecosystem second step\Ecosystem second step\Test.cpp(66,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Mikhakuv\Desktop\Shkola\infa\C++\Ecosystem second step\Ecosystem second step\Test.cpp(88,24): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Mikhakuv\Desktop\Shkola\infa\C++\Ecosystem second step\Ecosystem second step\Test.cpp(118,24): warning C4305: 'argument': truncation from 'double' to 'float'
+  Wolf.cpp
+C:\Users\Mikhakuv\Desktop\Shkola\infa\C++\Ecosystem second step\Ecosystem second step\Wolf.h(6,27): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\Mikhakuv\Desktop\Shkola\infa\C++\Ecosystem second step\Ecosystem second step\Wolf.cpp(14,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Mikhakuv\Desktop\Shkola\infa\C++\Ecosystem second step\Ecosystem second step\Wolf.cpp(24,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Mikhakuv\Desktop\Shkola\infa\C++\Ecosystem second step\Ecosystem second step\Wolf.cpp(25,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Mikhakuv\Desktop\Shkola\infa\C++\Ecosystem second step\Ecosystem second step\Wolf.cpp(26,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+C:\Users\Mikhakuv\Desktop\Shkola\infa\C++\Ecosystem second step\Ecosystem second step\Nature.cpp(15): warning C4715: 'Nature::operator<=>': not all control paths return a value
+  Ecosystem second step.vcxproj -> C:\Users\Mikhakuv\Desktop\Shkola\infa\C++\Ecosystem second step\x64\Debug\Ecosystem second step.exe
