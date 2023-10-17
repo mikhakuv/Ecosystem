@@ -1,0 +1,15 @@
+﻿  Cabbage.cpp
+  Hare.cpp
+C:\Users\Mikhakuv\Desktop\Shkola\infa\C++\Ecosystem second step\Ecosystem second step\Hare.h(6,27): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\Mikhakuv\Desktop\Shkola\infa\C++\Ecosystem second step\Ecosystem second step\Hare.cpp(7,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Mikhakuv\Desktop\Shkola\infa\C++\Ecosystem second step\Ecosystem second step\Hare.cpp(17,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Mikhakuv\Desktop\Shkola\infa\C++\Ecosystem second step\Ecosystem second step\Hare.cpp(18,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Mikhakuv\Desktop\Shkola\infa\C++\Ecosystem second step\Ecosystem second step\Hare.cpp(19,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Wolf.cpp
+C:\Users\Mikhakuv\Desktop\Shkola\infa\C++\Ecosystem second step\Ecosystem second step\Wolf.h(6,27): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\Mikhakuv\Desktop\Shkola\infa\C++\Ecosystem second step\Ecosystem second step\Wolf.cpp(7,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Mikhakuv\Desktop\Shkola\infa\C++\Ecosystem second step\Ecosystem second step\Wolf.cpp(17,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Mikhakuv\Desktop\Shkola\infa\C++\Ecosystem second step\Ecosystem second step\Wolf.cpp(18,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Mikhakuv\Desktop\Shkola\infa\C++\Ecosystem second step\Ecosystem second step\Wolf.cpp(19,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  Ecosystem second step.vcxproj -> C:\Users\Mikhakuv\Desktop\Shkola\infa\C++\Ecosystem second step\x64\Debug\Ecosystem second step.exe
