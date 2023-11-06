@@ -1,0 +1,13 @@
+﻿  Test.cpp
+C:\Users\Mikhakuv\Desktop\Shkola\infa\C++\Ecosystem third step\Ecosystem third step\Action_Move.h(10,49): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Mikhakuv\Desktop\Shkola\infa\C++\Ecosystem third step\Ecosystem third step\Action_Move.h(10,55): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Mikhakuv\Desktop\Shkola\infa\C++\Ecosystem third step\Ecosystem third step\Nature.h(39,16): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Mikhakuv\Desktop\Shkola\infa\C++\Ecosystem third step\Ecosystem third step\Nature.h(43,16): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Mikhakuv\Desktop\Shkola\infa\C++\Ecosystem third step\Ecosystem third step\Wolf.h(6,29): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\Mikhakuv\Desktop\Shkola\infa\C++\Ecosystem third step\Ecosystem third step\Hare.h(6,29): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\Mikhakuv\Desktop\Shkola\infa\C++\Ecosystem third step\Ecosystem third step\Test.cpp(19,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Mikhakuv\Desktop\Shkola\infa\C++\Ecosystem third step\Ecosystem third step\Test.cpp(41,24): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Mikhakuv\Desktop\Shkola\infa\C++\Ecosystem third step\Ecosystem third step\Test.cpp(67,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Mikhakuv\Desktop\Shkola\infa\C++\Ecosystem third step\Ecosystem third step\Test.cpp(89,24): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Mikhakuv\Desktop\Shkola\infa\C++\Ecosystem third step\Ecosystem third step\Test.cpp(119,24): warning C4305: 'argument': truncation from 'double' to 'float'
+  Ecosystem third step.vcxproj -> C:\Users\Mikhakuv\Desktop\Shkola\infa\C++\Ecosystem third step\x64\Debug\Ecosystem third step.exe
